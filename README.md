@@ -1,6 +1,6 @@
 # Chatbot_One_piece_Going_Merry:
 
-![](ONE PIECE.png)
+![](RNN.png)
 
 About Going Merry
 Going merry is a ship from a manga called “One Piece” , which revolves around the story of a bunch of pirates. Going merry is without a doubt, an amazing ship.
