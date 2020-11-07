@@ -20,6 +20,11 @@ json files are just like dictionaries in python. You can store in json files jus
 The data is stored in a json file, which can be imported and used as a pandas dataframe. This data was manually created by me. hence, it’s not that big.
 we all know that deep learning requires large chunks of data. but, That is not the case here. I have utilized a neural network architecture powerful enough to handle this small amount of data
 
+# Input: These are exactly the messages that the user is going to be sending to the bot.
+# tags : tags are used to categorise the inputs and map them to a particular type of response
+# responses : once, we have mapped an input to an appropriate tag, we can select one of the response to give back to the user.
+# This basically how the dataset is structured for the chatbot.
+
 # Conclusion:
 
 So, This is the Chatbot that I have created with tensorflow2 utilizing the power of embedding matrix. This same method can be used to build chatbots for any type of organization but not a generalized one.
