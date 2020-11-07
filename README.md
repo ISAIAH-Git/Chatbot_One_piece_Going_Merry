@@ -4,6 +4,8 @@
 
 # About Going Merry:
 
+![](GOING MERRY.png)
+
 Going merry is a ship from a manga called “One Piece” , which revolves around the story of a bunch of pirates. Going merry is without a doubt, an amazing ship.
 
 Going Merry is a chatbot that I created for a pirate recruitment process. It helps in recruitment of pirates all around the world. this answer user’s simple questions regarding the recruitment process, pre-requisites, etc.This same model can also be used for creating chatbots for any organization
