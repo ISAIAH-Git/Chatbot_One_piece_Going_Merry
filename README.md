@@ -4,7 +4,7 @@
 
 # About Going Merry:
 
-![](GOING MERRY.png)
+![](https://static.tvtropes.org/pmwiki/pub/images/going_merry_anime_concept_art.png)
 
 Going merry is a ship from a manga called “One Piece” , which revolves around the story of a bunch of pirates. Going merry is without a doubt, an amazing ship.
 
